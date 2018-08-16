@@ -26,7 +26,7 @@ function twitterShare(){
   };
 
  function otherShare(){
-   window.plugins.socialsharing.share('350+ best stories like Betaal Pachchisi, Akbar-Birbal, Tenaliram, Inspirational,  Panchtantra, funny, Love and Lok-Kathayen all in one App. \n\nhttps://play.google.com/store/apps/details?id=com.devsun.hindikahaniya', null, null, null);
+   window.plugins.socialsharing.share('Do you want to make your brain work faster.\n Download Now! \nhttps://play.google.com/store/apps/details?id=com.devsun.mathtestgame', null, null, null);
   };
 
  function storyShare(){ 

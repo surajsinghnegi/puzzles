@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.devsun.hindikahaniya" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hindi kahaniya hindi stories</name>
+<widget id="com.devsun.puzzles" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Puzzles</name>
     <description>
-       Hindi kahaniya hindi stories
+       Puzzles
     </description>
-    <author email="surajsinghnegi009@gmail.com" href="com.devsun.hindikahaniya">
+    <author email="globalpromotionhub@gmail.com" href="com.devsun.puzzles">
         Devsun
     </author>
     <content src="index.html" />
@@ -28,7 +28,7 @@
         <splash qualifier="port-xxxhdpi" src="res/screens/android/drawable-port-xxxhdpi-screen.png" />
         <splash src="splash.png" />
         <preference name="SplashScreenDelay" value="5000" />
-         <preference name="orientation" value="portrait" />
+         <preference name="orientation" value="landscape" />
           <preference name="fullscreen" value="true" />
           <preference name="KeepRunning" value="false"/>
           <preference name="SplashScreen" value="screen"/>

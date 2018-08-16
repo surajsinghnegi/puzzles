@@ -28,7 +28,7 @@
         <splash qualifier="port-xxxhdpi" src="res/screens/android/drawable-port-xxxhdpi-screen.png" />
         <splash src="splash.png" />
         <preference name="SplashScreenDelay" value="5000" />
-         <preference name="orientation" value="portrait" />
+         <preference name="orientation" value="landscape" />
           <preference name="fullscreen" value="true" />
           <preference name="KeepRunning" value="false"/>
           <preference name="SplashScreen" value="screen"/>
