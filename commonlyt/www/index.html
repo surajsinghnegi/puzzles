@@ -41,7 +41,7 @@
       -ms-touch-action: none;
     }
     /*device rotate*/
-#portrait{
+/*#portrait{
       width: 100%;
     display: block;
     background: #fff;
@@ -49,14 +49,14 @@
     position: absolute;
     text-align: center;
     padding-top: 50%;
-}
+}*/
     </style>
 
 </head>
 
-<body onload='onload()'> 
+<body> 
   <!-- <div id="landscape"></div> -->
-  <div id="portrait" style="display: none"><img src="images/rotate_screen_icon_black.gif"></div>
+  <!-- <div id="portrait" style="display: none"><img src="images/rotate_screen_icon_black.gif"></div> -->
   <div id="fb-root"></div>
   
 
@@ -149,10 +149,10 @@ function applyOrientation() {
 
   }
 }
-function onload()
-{
-  applyOrientation();
-}
+// function onload()
+// {
+//   applyOrientation();
+// }
 </script>
 
  
