@@ -21,7 +21,7 @@ if( /(android)/i.test(navigator.userAgent) ) {
  
 if(AdMob) AdMob.createBanner( {
     // isTesting:true, //Remove this Before publishing your app
-    adId:admobid.banner, 
+    adId:admobid.banner,
     position:AdMob.AD_POSITION.BOTTOM_CENTER, 
     autoShow:true} );
   if(AdMob) AdMob.prepareInterstitial( {adId:admobid.interstitial, autoShow:false} );
